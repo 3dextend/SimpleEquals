@@ -3,12 +3,12 @@
  * Created by Ryabenkiy Sergey on 19.06.2015.
  */
 public class Descriminant {
-    double a;
-    double b;
-    double c;
-    double x1;
-    double x2;
-    double D;
+    public double a;
+    public double b;
+    public double c;
+    private double x1;
+    private double x2;
+    private double D;
 
     public void equal(double a, double b, double c) {
         D = ((b * b) - 4 * a * c);
