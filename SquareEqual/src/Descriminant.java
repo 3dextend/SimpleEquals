@@ -9,7 +9,7 @@ public class Descriminant {
     double x1;
     double x2;
     double D;
-// method equal
+
     public void equal(double a, double b, double c) {
         D = ((b * b) - 4 * a * c);
         System.out.println("Descriminant D = " + D);
