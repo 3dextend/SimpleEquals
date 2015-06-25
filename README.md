@@ -1,2 +1,2 @@
-# quadratic-equation
-Simple program for quadratic equation
+# SimpleEquals
+Simple mathematical equals in java
