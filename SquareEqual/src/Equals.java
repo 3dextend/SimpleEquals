@@ -12,7 +12,7 @@ public class Equals {
     public static void main(String[] args) {
         Descriminant ds = new Descriminant();
         Scanner input = new Scanner(System.in);
-
+// enter data
         do {
 
             System.out.println("\n Enter factor a: ");
